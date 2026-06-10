@@ -1,1 +1,17 @@
-
+{
+  "format_version": 2,
+  "header": {
+    "name": "Breakable Unbreakables",
+    "description": "Makes normally unbreakable blocks breakable",
+    "uuid": "GENERATE-NEW-UUID-HERE",
+    "version": [1,0,0],
+    "min_engine_version": [1,21,0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "GENERATE-ANOTHER-UUID-HERE",
+      "version": [1,0,0]
+    }
+  ]
+}
